@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ifoy03
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning php and deep js
-- 💞️ I’m looking to collaborate on idk
+- 🌱 I’m currently learning javascript frameworks
 - 📫 How to reach me telegram - @wishyoutomorrow
 
 <!---
